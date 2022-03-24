@@ -58,7 +58,7 @@ Byron Hsu, Forrest Liau, and David Lin
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Software Intellectual Property (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24306_software))
+Software Intellectual Property ([PDF]({{< baseurl >}}/resources/24306_software))
 {{< tdclose >}}
 {{< tdopen >}}
 Michael Matczynski and Marcos Flores
@@ -85,7 +85,7 @@ Brian Keegan
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Conceal or Perish? An Overview of Trade Security and the Software Industry (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24398_conceal))
+Conceal or Perish? An Overview of Trade Security and the Software Industry ([PDF]({{< baseurl >}}/resources/24398_conceal))
 {{< tdclose >}}
 {{< tdopen >}}
 Louise Giam and Albert Leung
@@ -103,7 +103,7 @@ Tri Ngo and Richard Sinn
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Copyright Infringement in Music and an Alternative to Piracy (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/22207_music))
+Copyright Infringement in Music and an Alternative to Piracy ([PDF]({{< baseurl >}}/resources/22207_music))
 {{< tdclose >}}
 {{< tdopen >}}
 John Pavlish
@@ -127,7 +127,7 @@ Sebastian Buermeyer
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Athletic Performance Enhancing Inventions; the Conflicting Interests of Inventors, Spectators, Athletes and Companies (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/22209_athlete))
+Athletic Performance Enhancing Inventions; the Conflicting Interests of Inventors, Spectators, Athletes and Companies ([PDF]({{< baseurl >}}/resources/22209_athlete))
 {{< tdclose >}}
 {{< tdopen >}}
 Nicholas Sidelnik
@@ -145,7 +145,7 @@ Cliff Roscow, Mitun Ranka, and Sedrick Tydus
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Effects of Patent Policies on Innovation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/24308_innovation))
+Effects of Patent Policies on Innovation ([PDF - 1.2 MB]({{< baseurl >}}/resources/24308_innovation))
 {{< tdclose >}}
 {{< tdopen >}}
 Raul Barreto, Julian Caballero, and Emyluz Rodriguez
@@ -154,7 +154,7 @@ Raul Barreto, Julian Caballero, and Emyluz Rodriguez
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Defending Open Science from Patent Infringement (What Does the Future Hold for University Research?) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24512_defending))
+Defending Open Science from Patent Infringement (What Does the Future Hold for University Research?) ([PDF]({{< baseurl >}}/resources/24512_defending))
 {{< tdclose >}}
 {{< tdopen >}}
 Minna H. Ahn
@@ -187,7 +187,7 @@ Samantha Bennett
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Life Patents: The Reason, the Ramifications, the Proposed Reversal (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24502_life))
+Life Patents: The Reason, the Ramifications, the Proposed Reversal ([PDF]({{< baseurl >}}/resources/24502_life))
 {{< tdclose >}}
 {{< tdopen >}}
 Anonymous
@@ -196,7 +196,7 @@ Anonymous
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Prospects for Drug Accessibility and Economic Growth as Indian Pharmaceuticals Enter the Product Patent Era (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24392_prospect))
+Prospects for Drug Accessibility and Economic Growth as Indian Pharmaceuticals Enter the Product Patent Era ([PDF]({{< baseurl >}}/resources/24392_prospect))
 {{< tdclose >}}
 {{< tdopen >}}
 Imran Hendley, Danielle Chu, Kova Jura, and Jane Yoon
@@ -223,7 +223,7 @@ Natalia Arzeno, Rebeca Diaz, and Sandra Gonzalez
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Human Cloning and the United States Patent Office (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24305_cloning))
+Human Cloning and the United States Patent Office ([PDF]({{< baseurl >}}/resources/24305_cloning))
 {{< tdclose >}}
 {{< tdopen >}}
 Ashley Finan
@@ -247,7 +247,7 @@ Mohamed Haji and Anrupa Ganguly
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Software Piracy in Developing Countries - A Mounting Problem and Proposed Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24391_piracy))
+Software Piracy in Developing Countries - A Mounting Problem and Proposed Solutions ([PDF]({{< baseurl >}}/resources/24391_piracy))
 {{< tdclose >}}
 {{< tdopen >}}
 Paul Wehner, Arun Agarwal, and Jamal Isa
@@ -256,7 +256,7 @@ Paul Wehner, Arun Agarwal, and Jamal Isa
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Intellectual Property Protection and China (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/24578_ip_china))
+Intellectual Property Protection and China ([PDF - 1.1 MB]({{< baseurl >}}/resources/24578_ip_china))
 {{< tdclose >}}
 {{< tdopen >}}
 Elizabeth Eames, Qian Wang, Steven Stoddard, Spencer Cross, and Christina Chae
@@ -274,7 +274,7 @@ Samuel Hwang, Kimberly Kam, and Melvin Makhni
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-A Comparison Study of the United States Patent System and the System of the Former Soviet Union and Current Russia (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.4 MB]({{< baseurl >}}/resources/24793_us_russia))
+A Comparison Study of the United States Patent System and the System of the Former Soviet Union and Current Russia ([PDF - 4.4 MB]({{< baseurl >}}/resources/24793_us_russia))
 {{< tdclose >}}
 {{< tdopen >}}
 Helen, Belogolova, Sal Pallante, and Jonathan Wu
@@ -283,7 +283,7 @@ Helen, Belogolova, Sal Pallante, and Jonathan Wu
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-A Global Patent System - From Fantasy to Functional (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24387_fantasy))
+A Global Patent System - From Fantasy to Functional ([PDF]({{< baseurl >}}/resources/24387_fantasy))
 {{< tdclose >}}
 {{< tdopen >}}
 Nima Veiseh
@@ -292,7 +292,7 @@ Nima Veiseh
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-A Medical Patent System for Global Warfare (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24390_medical))
+A Medical Patent System for Global Warfare ([PDF]({{< baseurl >}}/resources/24390_medical))
 {{< tdclose >}}
 {{< tdopen >}}
 Jordan Wan
@@ -307,7 +307,7 @@ Jordan Wan
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lack of Commercialization of 'Concept' Patents. How it Affects Independent Inventors (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24503_lack_of))
+Lack of Commercialization of 'Concept' Patents. How it Affects Independent Inventors ([PDF]({{< baseurl >}}/resources/24503_lack_of))
 {{< tdclose >}}
 {{< tdopen >}}
 Jesus Alvarez
