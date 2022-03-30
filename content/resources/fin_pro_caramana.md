@@ -5,6 +5,7 @@ description: This resource provide some background on the pharmaceutical industr
   form, analyze the policy?s ramifications for drug accessibility along with the references.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-901-inventions-and-patents-fall-2005/5648007251e3f2e34e37d5058a2239a0_fin_pro_caramana.pdf
 file_type: application/pdf
+parent_uid: c929091c-413a-12f0-1176-eb1861802dd2
 resourcetype: Document
 title: fin_pro_caramana.pdf
 uid: 56480072-51e3-f2e3-4e37-d5058a2239a0

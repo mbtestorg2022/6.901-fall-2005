@@ -4,6 +4,7 @@ description: This resource contains chapter 2 of the course textbook, 'Create or
   by Dr. Robert Rines.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-901-inventions-and-patents-fall-2005/46285ba7512cad9c56560fe1bff40bd8_crete_r_pershch2.pdf
 file_type: application/pdf
+parent_uid: c1a53462-548b-db76-c21c-3fbf19287e83
 resourcetype: Document
 title: crete_r_pershch2.pdf
 uid: 46285ba7-512c-ad9c-5656-0fe1bff40bd8

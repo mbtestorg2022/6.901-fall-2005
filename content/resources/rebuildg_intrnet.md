@@ -6,6 +6,7 @@ description: This resource includes information on internet's infrastructure and
   solutions, and patent-related issues surrounding internet security solutions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-901-inventions-and-patents-fall-2005/173a417fd4a446d55ccb087a78f04db5_rebuildg_intrnet.pdf
 file_type: application/pdf
+parent_uid: c929091c-413a-12f0-1176-eb1861802dd2
 resourcetype: Document
 title: rebuildg_intrnet.pdf
 uid: 173a417f-d4a4-46d5-5ccb-087a78f04db5
